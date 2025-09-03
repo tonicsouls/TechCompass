@@ -1,0 +1,8 @@
+{
+  "name": "Tech Compass vd3.1",
+  "description": "An IT troubleshooting application that uses the Gemini model with visual input from screen sharing to help diagnose and solve technical problems step-by-step.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
